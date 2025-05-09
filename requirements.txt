@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pytesseract
+pdf2image
+ollama
+python-dotenv
