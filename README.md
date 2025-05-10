@@ -92,4 +92,3 @@ This project is open-source and free to use for educational or personal projects
 
 Made by Ijja – because privacy matters.
 
-```
