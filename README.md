@@ -1,9 +1,18 @@
 # AI Resume Analyzer (Local & Privacy-Preserving)
 
-This project is a **local AI-powered resume analyzer** built with [Ollama](https://ollama.com) and [Streamlit](https://streamlit.io).  
-Unlike cloud-based tools, **your resume data never leaves your machine**, making it ideal for users who care about privacy.
+### 🧠 About the Project
 
-Whether you're a **freelancer** improving your resume, **a student** / **a job seeker tailoring your profile to a job offer**, or an **HR professional reviewing CVs offline**, this tool helps you analyze and enhance resumes **securely and efficiently** — all **without an internet connection** and **without uploading your documents to untrusted or shady websites**.
+![Status](https://img.shields.io/badge/status-prototype-yellow)
+![Privacy](https://img.shields.io/badge/privacy-100%25%20local-green)
+![AI](https://img.shields.io/badge/AI-Ollama-blue)
+![UI](https://img.shields.io/badge/UI-Streamlit-red)
+![Offline](https://img.shields.io/badge/Offline-Yes-success)
+
+🔒 **AI Resume Analyzer** is a **local AI-powered resume analyzer** built with **Ollama** and **Streamlit**.  
+Unlike cloud-based tools, **your resume data never leaves your machine**, making it ideal for users who care about **privacy**.
+
+Whether you're a 💼 **freelancer** improving your resume, a 🎓 **student / job seeker** tailoring your profile to a job offer, or a 🧑‍💼 **HR professional** reviewing CVs offline, this tool helps you **analyze and enhance resumes securely and efficiently** — all **without an internet connection** and **without uploading your documents to untrusted or shady websites**.
+
 
 ---
 
